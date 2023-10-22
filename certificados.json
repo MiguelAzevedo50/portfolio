@@ -1,0 +1,29 @@
+[
+{
+    "name": "Praticando HTML/CSS",
+    "image": "./assets/certificadoPraticandoHtmlCss.png",
+    "tags": ["HTML", "CSS"],
+    "link": "https://cursos.alura.com.br/certificate/miguel-teodoro/html-css-praticando-html-css"
+},
+
+{
+    "name": "JavaScript Arrays",
+    "image": "./assets/certificadoPraticandoHtmlCss.png",
+    "tags": ["JavaScript", "Arrays"],
+    "link": "https://cursos.alura.com.br/certificate/miguel-teodoro/javascript-arrays"
+},
+
+{
+    "name": "JavaScript objetos",
+    "image": "./assets/certificadoPraticandoHtmlCss.png",
+    "tags": ["JavaScript", "Objetos"],
+    "link": "https://cursos.alura.com.br/certificate/miguel-teodoro/javascript-objetos"
+},
+
+{
+    "name": "JavaScript Tipos, Variáveis e funções",
+    "image": "./assets/certificadoPraticandoHtmlCss.png",
+    "tags": ["JavaScript", "Tipos", "Variáveis", "Funções"],
+    "link": "https://cursos.alura.com.br/certificate/miguel-teodoro/fundamentos-javascript-tipos-variaveis-funcoes"
+}
+]
